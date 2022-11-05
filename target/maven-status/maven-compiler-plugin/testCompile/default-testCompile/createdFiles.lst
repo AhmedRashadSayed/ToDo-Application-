@@ -1,0 +1,17 @@
+com\Qacat\todo\TestCases\LoginTest.class
+com\Qacat\todo\pages\TodoPage.class
+com\Qacat\todo\pages\LoginPage.class
+com\Qacat\todo\pages\NewTodoPage.class
+com\Qacat\todo\Utilites\propertiesUtils.class
+com\Qacat\todo\API\RegisterApi.class
+com\Qacat\todo\Utilites\configUtils.class
+com\Qacat\todo\Utilites\RandomUsers.class
+com\Qacat\todo\base\basePage.class
+com\Qacat\todo\Objects\Task.class
+com\Qacat\todo\API\AddTask.class
+com\Qacat\todo\TestCases\TodoTest.class
+com\Qacat\todo\base\BaseTest.class
+com\Qacat\todo\Config\URlEndPoint.class
+com\Qacat\todo\Objects\Users.class
+com\Qacat\todo\Factory\DriverFactory.class
+com\Qacat\todo\Utilites\CookieUtils.class

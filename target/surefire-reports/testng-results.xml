@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-05T14:07:46 EET" name="Surefire suite" finished-at="2022-11-05T14:08:33 EET" duration-ms="47076">
+    <groups>
+    </groups>
+    <test started-at="2022-11-05T14:07:46 EET" name="Surefire test" finished-at="2022-11-05T14:08:33 EET" duration-ms="47076">
+      <class name="com.Qacat.todo.TestCases.TodoTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:07:46 EET" name="setup" finished-at="2022-11-05T14:08:01 EET" duration-ms="15053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:07:46 EET" name="setup" finished-at="2022-11-05T14:08:01 EET" duration-ms="15045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:07:46 EET" name="setup" finished-at="2022-11-05T14:08:01 EET" duration-ms="15041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:07:46 EET" name="setup" finished-at="2022-11-05T14:08:01 EET" duration-ms="15047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:07:46 EET" name="setup" finished-at="2022-11-05T14:08:01 EET" duration-ms="15040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ShouldBeAbleToDeleteTaskUsingApiRequest()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:08:02 EET" name="ShouldBeAbleToDeleteTaskUsingApiRequest" description="Should Be Able To Delete Todo Correctly using API request" finished-at="2022-11-05T14:08:32 EET" duration-ms="30666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToDeleteTaskUsingApiRequest -->
+        <test-method signature="ShouldBeAbleToDeleteTodo()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:08:02 EET" name="ShouldBeAbleToDeleteTodo" description="Should Be Able To Delete Todo Correctly" finished-at="2022-11-05T14:08:22 EET" duration-ms="20078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToDeleteTodo -->
+        <test-method signature="ShouldBeAbleToAddAnewTodoUsingApiRequest()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:08:02 EET" name="ShouldBeAbleToAddAnewTodoUsingApiRequest" description="Should Be Able To Add NewTodo Correctly using API request" finished-at="2022-11-05T14:08:33 EET" duration-ms="31082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToAddAnewTodoUsingApiRequest -->
+        <test-method signature="ShouldBeAbleToCreateAnewTodoFromNewTodoPageUsingApiRequest()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:08:02 EET" name="ShouldBeAbleToCreateAnewTodoFromNewTodoPageUsingApiRequest" description="Should Be Able To Create a NewTodo From NewTodo Page Correctly using API request" finished-at="2022-11-05T14:08:31 EET" duration-ms="29788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToCreateAnewTodoFromNewTodoPageUsingApiRequest -->
+        <test-method signature="ShouldBeAbleToAddAnewTodo()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:08:02 EET" name="ShouldBeAbleToAddAnewTodo" description="Should Be Able To Add NewTodo Correctly" finished-at="2022-11-05T14:08:21 EET" duration-ms="19794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToAddAnewTodo -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:08:21 EET" name="teardown" finished-at="2022-11-05T14:08:27 EET" duration-ms="5850" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ShouldBeAbleToAddAnewTodo status=SUCCESS method=TodoTest.ShouldBeAbleToAddAnewTodo()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:08:22 EET" name="teardown" finished-at="2022-11-05T14:08:27 EET" duration-ms="5563" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ShouldBeAbleToDeleteTodo status=SUCCESS method=TodoTest.ShouldBeAbleToDeleteTodo()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:08:31 EET" name="teardown" finished-at="2022-11-05T14:08:33 EET" duration-ms="1702" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ShouldBeAbleToCreateAnewTodoFromNewTodoPageUsingApiRequest status=SUCCESS method=TodoTest.ShouldBeAbleToCreateAnewTodoFromNewTodoPageUsingApiRequest()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:08:32 EET" name="teardown" finished-at="2022-11-05T14:08:33 EET" duration-ms="883" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ShouldBeAbleToDeleteTaskUsingApiRequest status=SUCCESS method=TodoTest.ShouldBeAbleToDeleteTaskUsingApiRequest()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211]" started-at="2022-11-05T14:08:33 EET" name="teardown" finished-at="2022-11-05T14:08:33 EET" duration-ms="449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ShouldBeAbleToAddAnewTodoUsingApiRequest status=SUCCESS method=TodoTest.ShouldBeAbleToAddAnewTodoUsingApiRequest()[pri:0, instance:com.Qacat.todo.TestCases.TodoTest@dcc6211] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Qacat.todo.TestCases.TodoTest -->
+      <class name="com.Qacat.todo.TestCases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qacat.todo.TestCases.LoginTest@62b969c4]" started-at="2022-11-05T14:07:46 EET" name="setup" finished-at="2022-11-05T14:08:01 EET" duration-ms="15058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ShouldBeAbleToLoginWithEmailAndPassword()[pri:0, instance:com.Qacat.todo.TestCases.LoginTest@62b969c4]" started-at="2022-11-05T14:08:02 EET" name="ShouldBeAbleToLoginWithEmailAndPassword" description="Test Login Functionality Using UserName and Password" finished-at="2022-11-05T14:08:17 EET" duration-ms="15070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToLoginWithEmailAndPassword -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.Qacat.todo.TestCases.LoginTest@62b969c4]" started-at="2022-11-05T14:08:17 EET" name="teardown" finished-at="2022-11-05T14:08:24 EET" duration-ms="6820" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ShouldBeAbleToLoginWithEmailAndPassword status=SUCCESS method=LoginTest.ShouldBeAbleToLoginWithEmailAndPassword()[pri:0, instance:com.Qacat.todo.TestCases.LoginTest@62b969c4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Qacat.todo.TestCases.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

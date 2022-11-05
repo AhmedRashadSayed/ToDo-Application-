@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0d53469-a294-4519-a95e-81c5606b7334" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2GdimpAsnLT9sHp0Dgk6ClD6PmH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.TodoTest.ShouldBeAbleToDeleteTodo">
+    <configuration name="LoginTest.ShouldBeAbleToLoginWithEmailAndPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ToDoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Qacat.todo.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Qacat.todo.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.Qacat.todo.TestCases.LoginTest" />
+      <option name="METHOD_NAME" value="ShouldBeAbleToLoginWithEmailAndPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ToDoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Qacat.todo.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Qacat.todo.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.Qacat.todo.TestCases.TodoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoTest.ShouldBeAbleToAddAnewTodo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ToDoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Qacat.todo.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Qacat.todo.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.Qacat.todo.TestCases.TodoTest" />
+      <option name="METHOD_NAME" value="ShouldBeAbleToAddAnewTodo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoTest.ShouldBeAbleToDeleteTaskUsingApiRequest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ToDoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Qacat.todo.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Qacat.todo.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.Qacat.todo.TestCases.TodoTest" />
+      <option name="METHOD_NAME" value="ShouldBeAbleToDeleteTaskUsingApiRequest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoTest.ShouldBeAbleToDeleteTodo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ToDoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Qacat.todo.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Qacat.todo.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.Qacat.todo.TestCases.TodoTest" />
+      <option name="METHOD_NAME" value="ShouldBeAbleToDeleteTodo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TodoTest.ShouldBeAbleToDeleteTodo" />
+        <item itemvalue="TestNG.TodoTest.ShouldBeAbleToAddAnewTodo" />
+        <item itemvalue="TestNG.LoginTest.ShouldBeAbleToLoginWithEmailAndPassword" />
+        <item itemvalue="TestNG.TodoTest" />
+        <item itemvalue="TestNG.TodoTest.ShouldBeAbleToDeleteTaskUsingApiRequest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0d53469-a294-4519-a95e-81c5606b7334" name="Changes" comment="" />
+      <created>1666725024534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666725024534</updated>
+    </task>
+    <servers />
+  </component>
+</project>
